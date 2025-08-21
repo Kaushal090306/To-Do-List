@@ -1,0 +1,33 @@
+body {
+  background: #fafafa;
+  font-family: Arial, sans-serif;
+}
+
+.main-container {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.center-container {
+  background: #fff;
+  padding: 24px 18px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+  width: 320px;
+}
+
+.app-heading {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin: 12px 0 8px 0;
+  color: #222;
+  text-align: center;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid #eee;
+  margin: 8px 0 14px 0;
+}
